@@ -1,11 +1,16 @@
 _repo: Ralph-on-the-Midnight-Flyer-or-The-Wreck-at-Shadow-Valley_67030
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67030-h/images/cover.jpg
 creator:
   author:
     agent_name: Chapman, Allen
     gutenberg_agent_id: '2575'
     url: http://www.gutenberg.org/2009/agents/2575
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67030#Ralph-on-the-Midnight-Flyer-or-The-Wreck-at-Shadow-Valley
 gutenberg_issued: '2021-12-28'
 identifiers:
   gutenberg: '67030'
